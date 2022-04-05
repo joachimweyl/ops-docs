@@ -15,18 +15,20 @@ for the [Mass Open Cloud][moc].
 
 1. Create a new branch for your spec.
 
-1. Create a Policy or a Practice
+1. Create a Policy
 
     1. Create a new file in `policies/` by making a copy of
     `policies/policy-template.md`. Specs are numbered; your
     spec should use the next available number, expressed as
-    a four-digit, zero-padded prefix (such as `0010-my-proposal.md`).
+    a four-digit, zero-padded prefix (such as `0010-my-policy-proposal.md`).
+
+1. And/Or a Practice
 
     1. Create a new file in `practices/` by making a copy of
     `practices/practice-template.md`. Practices are
     numbered; your practices should use the next available
     number, expressed as a four-digit, zero-padded prefix
-    (such as `0010-my-practice.md`).
+    (such as `0010-my-practice-proposal.md`).
 
 1. Write a great policy document.
 
