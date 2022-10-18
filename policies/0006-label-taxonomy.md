@@ -84,19 +84,13 @@ with the following axes that cover most of our existing labels:
   - `priority/high`
   - `priority/critical`
 
-- **Size**
+- **Epic**
 
-  The `size` axis is used to guage size of issues. Further details can be
-  found [here][Sizing].
+  This label is used to denote that there is an epic with the same name. These
+  issues also tracks the discussions around architectural decisions for the
+  Epic.
 
-  - `size/extra small`
-  - `size/small`
-  - `size/medium`
-  - `size/large`
-  - `size/extra large`
-  - `size/milestone`
-
-[Sizing]: https://github.com/CCI-MOC/ops-docs/blob/master/practices/0004-github-issues-sizing.md
+  - `epic`
 
 ## Alternatives & History
 
@@ -107,10 +101,12 @@ None
 ### Author(s)
 
 Primary author:
-  - Lars Kellogg-Stedman <lars@redhat.com>
+
+- Lars Kellogg-Stedman <lars@redhat.com>
 
 Other contributors:
-  - Joachim Weyl <joachimw@bu.edu>
+
+- Joachim Weyl <joachimw@bu.edu>
 
 ### Milestones
 
@@ -127,7 +123,6 @@ the ops team.
 Several people have written about label taxonomies specifically in the
 context of GitHub:
 
-
 - [Sane Github
   Labels](https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63),
   by Dave Lunny
@@ -137,7 +132,6 @@ context of GitHub:
 - [How we organize GitHub issues: A simple styleguide for
   tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues),
   by the folks at Robin
-
 
 ## License
 
