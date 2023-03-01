@@ -1,6 +1,6 @@
 # Where to store contact information
 
-We will store all types of contact information here. It will include
+We will store information for technical contacts here. It will include
 University, Partners, internal and more contact information.
 
 ## Problem Description
@@ -9,10 +9,18 @@ We need a private storage location for contact information.
 
 ## Policy
 
-The location for this informaiton will be in [ops-private/contacts][1].
-Please store all contact information in this location.
+The location for this information will be in [ops-private/contacts][1].
+Please store University & Partner contact information in individual files
+using the templates below.
+[University Template][2]
+[Partner Template][3]
+
+To store Team Contact information please update the [Team Contact][4] file.
 
 [1]:https://github.com/CCI-MOC/ops-private/tree/main/contacts
+[2]:https://github.com/CCI-MOC/ops-private/tree/main/contacts/university_template.md
+[3]:https://github.com/CCI-MOC/ops-private/tree/main/contacts/partner_template.md
+[4]:https://github.com/CCI-MOC/ops-private/tree/main/contacts/teamcontact.md
 
 ## Alternatives & History
 
@@ -29,7 +37,6 @@ Primary author:
 Joachim Weyl  - <joachimw@bu.edu>
 
 Other contributors:
-
 
 ### Milestones
 
