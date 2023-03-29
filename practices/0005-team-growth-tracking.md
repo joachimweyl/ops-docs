@@ -64,10 +64,10 @@ management, or communication.
 
 ### Epic - Community Building
 
-Improving the cohesiveness of our team will help in many ways least of which
-is ensuring we communicate effectively when working on projects. To that end,
-we will create the space for our team to work on community-building
-activities. Some examples of this would be:
+Improving the cohesiveness of our team will help us communicate more
+effectively when working on projects. To that end, we will create a space for
+our team to work on community-building activities. Some examples of this would
+be:
 
 1. DiSC training
 
