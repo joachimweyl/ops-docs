@@ -46,9 +46,9 @@ be:
 1. Affiliated University courses on technology, leadership,
 management, or communication.
 
-   1. BU [Tarrier eDevelopment][2]
+   1. BU [Terrier eDevelopment][2]
 
-      1. For example[Essentials for Program Managers][5]
+      1. For example, [Essentials for Program Managers][5]
 
    1. Courses such as [Cloud Computing (CAS CS 528)][3]
 
